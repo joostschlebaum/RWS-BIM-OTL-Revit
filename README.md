@@ -35,3 +35,5 @@ This database makes use of the Revit Classification Manager:
 - Select the object information in the list that you want to assign to the selected Revit element and click Assign
 
 
+## Notes
+- You can assign all 3 levels separately
