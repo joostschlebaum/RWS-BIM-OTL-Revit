@@ -19,6 +19,12 @@ This database makes use of the Revit Classification Manager:
 - Download the Excel file of the database and place it in a convenient location
 
 
+## Project initialization
+- Open the Revit Classification Manager Assign menu inside of your Revit project
+- Browse to the Excel file and select it 
+- Click finish. This will now automatically add the required shared parameters to the Revit project
+
+
 ## Example usage
 - Open the Revit Classification Manager Assign menu inside of your Revit project
 
