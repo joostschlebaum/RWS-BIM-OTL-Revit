@@ -20,5 +20,5 @@ This database makes use of the Revit Classification Manager:
 
 
 ## Example usage
-- Open the Revit Classification Manager inside of your Revit project
+- Open the Revit Classification Manager Assign menu inside of your Revit project
 
