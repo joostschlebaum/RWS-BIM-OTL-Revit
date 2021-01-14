@@ -30,7 +30,7 @@ This database makes use of the Revit Classification Manager:
   (You can leave this window open for as long as you like and even move it to a second screen)
 - Select the Revit element(s) you want to assign an object type definition to
 - In the classification manager, in the left menu select Element
-- Depending on which parameter you want to set and depending on the hierarchy, select either the Systeemdelen (lvl 4), Bouwdelen (lvl 5) or Constructiedelen (lvl 6) tab.
+- Depending on which parameter you want to set and depending on the hierarchy, select either the Bouwdelen (lvl 4), Constructie (lvl 5) or Constructiedelen (lvl 6) tab.
   (Some parameters can only be mapped to a specific Revit type. Those types will automatically be filtered on their respecitive tab)
 - Select the object information in the list that you want to assign to the selected Revit element and click Assign
 
